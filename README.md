@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elias</h1>
+<h1 align="center">Hi :) </h1>
 <h3 align="center">I am currenty studying CS in Vienna at Technikum-Wien</h3>
 
 <h3 align="left">Connect with me:</h3>
