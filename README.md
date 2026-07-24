@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Elias and I am currenty studying CS in Vienna at Technikum-Wien</p>
+<p align="left">My name is Elias and I studied CS in Vienna at Technikum-Wien. Usually knee-deep in whatever I'm building
+at the moment.</p>
 
 ###
 
